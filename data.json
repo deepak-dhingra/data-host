@@ -1,0 +1,68 @@
+[{
+	"personalInfo": {
+		"name": "Deepak Dhingra",
+		"phone": "9052261199",
+		"email": "deepak.dhingra0789@gmail.com",
+      "summary": "A forward-thinking developer offering more than 6 years of experience building, integrating, testing, and supporting Android Applications for mobile and tablet devices on the Android platform seeks position with a top technology firm."
+	
+	},
+
+	"skills": [
+		"Developed 10+ fully functional Android applications for Mobile and Tablet devices.",
+		"Known for good coding practices i.e. writing efficient, maintainable, and reusable code.",
+		"Ability to collaborate with User Experience (UX) to ensure the app has a native look and feel, using Google’s Material Design guideline.",
+		"Proficient in design review, architecture, problem-solving, discussions for new features, innovations and the overall app and code reviews", "Retrofit", "Glide", "Dagger", "DataBinding", "ViewModels", "Live Data"
+	],
+	"professionalExperience": [{
+		"companyName": "Mobile Programming India Pvt Ltd",
+		"title": "Sr. Android Developer",
+		"duration": "Dec 2012-May 2019",
+		"description": "Senior Android developer for Mobile Programming India Pvt. Ltd. Collaborated with marketing, key executives, UI designers, and other developers to develop cutting-edge applications for the financial services sector without jeopardizing privacy or security.",
+		"image": "",
+		"responsibilities": [
+			"Ensured applications are properly integrated with Android APIs.",
+			"Worked on Bluetooth Low Energy for supporting the BLE device like activity monitor watch, Blood Pressure Machine, weight scale, etc.",
+			"Worked on Near Field Communication (NFC) to write data in the NFC tags and get response from the NFC tags.",
+			"Participated in fast-paced development cycles, have completed 100% of deadlines ahead of schedule.",
+			"Hands-on experience in deployment to the Google Play Store.",
+			"Experience in designing, developing and configuring mobile applications to meet client requirements.",
+			"Worked with backend developers, Design Teams and made prototype, wireframes and implement according to specifications.",
+			"Worked independently and proactively identified work that needs to be done and showed flexibility to adapt new and evolving environments."
+		]
+	}],
+	"workexperience": [{
+			"projectname": "Go NFC Reader",
+			"role": [
+				"Used Kotlin to implement of new feature in the App.",
+				"Played important role on creating MVP pattern app architecture.",
+				"Worked on NFC (Near Field Communication) to read Data from NFC tags to display on the screen.",
+				"Designed and Implemented Views and Layouts for user interaction.",
+				"Manage UI for different screen sizes.",
+				"Involved in code review and unit-testing before releasing build to the QA and client."
+			]
+		},
+		{
+			"projectname": "OverSight",
+			"role": ["Used Kotlin to implement of new feature in the App.",
+				"Played important role on creating MVP pattern app architecture.",
+				"Designed and Implemented Views and Layouts for user interaction.",
+				"Manage UI for different screen sizes"
+			]
+		},
+		{
+			"projectname": "SBA Sites",
+			"role": ["Played important role on creating MVC pattern app architecture.",
+				"Designed and Implemented Views and Layouts for user interaction.",
+				"Implemented ArcGIS Maps to show the sites and site information.",
+				"Implemented BLE (Bluetooth low energy) functionality to unlock the Noke Lock."
+			]
+		}
+	],
+	"education": [{
+			"educationTitle": "Bachelor of Technology in Information Technology (May 2013) Punjab Technical University,INDIA."
+		}
+
+
+	]
+
+}]
